@@ -1,0 +1,6 @@
+services:
+  owncloud:
+    image: owncloud/server:11.1.0-20261123
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai
