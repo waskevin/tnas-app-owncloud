@@ -19,5 +19,6 @@ docker run -d --name owncloud --restart unless-stopped -e TZ=Asia/Shanghai owncl
 ## 状态
 
 - 本地说明材料已准备。
+- x86_64 运行预检：已通过（登录页面可访问）。
 - TerraMaster 审核：未提交。
 - 本仓库仅用于应用说明与打包准备。
